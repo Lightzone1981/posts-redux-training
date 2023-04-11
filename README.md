@@ -2,3 +2,6 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 **<p>Simple posts layout</p>**
+
+[Demo](https://lightzone1981.github.io/posts-redux-training/)
+
